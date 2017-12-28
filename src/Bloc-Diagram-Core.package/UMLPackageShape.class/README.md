@@ -1,0 +1,1 @@
+A shape representing an UML package
