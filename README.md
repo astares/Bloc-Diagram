@@ -1,2 +1,2 @@
 # Bloc-Diagram
-Creating Diagrams with Bloc
+Creating Diagrams with [Bloc](https://github.com/pharo-graphics/Bloc)
