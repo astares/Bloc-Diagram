@@ -1,0 +1,4 @@
+accessing
+title
+
+	^'Diagram Editor'

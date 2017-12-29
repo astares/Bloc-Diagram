@@ -1,1 +1,1 @@
-A unit test for the ruler
+Unit tests for the ruler

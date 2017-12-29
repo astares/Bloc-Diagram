@@ -6,7 +6,11 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"gridSize"
+		"gridSize",
+		"enabled",
+		"visible",
+		"origin",
+		"size"
 	],
 	"name" : "BlGrid",
 	"type" : "normal"

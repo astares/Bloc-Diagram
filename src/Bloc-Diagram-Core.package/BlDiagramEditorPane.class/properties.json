@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "TorstenBergmann 12/28/2017 12:34",
+	"super" : "BlElement",
+	"category" : "Bloc-Diagram-Core-Base",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"horizontalRuler",
+		"verticalRuler",
+		"canvas"
+	],
+	"name" : "BlDiagramEditorPane",
+	"type" : "normal"
+}

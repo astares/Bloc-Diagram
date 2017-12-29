@@ -6,6 +6,6 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "BlRulerTest",
+	"name" : "BlGridTest",
 	"type" : "normal"
 }

@@ -1,4 +1,6 @@
 initialization
 initialize
 	super initialize.
-	gridSize := 10@10
+	size := 10@10.
+	enabled := true.
+	visible := true.	
