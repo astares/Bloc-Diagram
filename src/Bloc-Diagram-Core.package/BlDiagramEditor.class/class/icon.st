@@ -1,4 +1,4 @@
-world menu
+accessing
 icon
 	"Return an icon"
 	
