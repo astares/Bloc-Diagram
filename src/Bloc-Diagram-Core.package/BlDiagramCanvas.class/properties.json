@@ -1,7 +1,7 @@
 {
 	"commentStamp" : "TorstenBergmann 12/28/2017 12:34",
 	"super" : "BlElement",
-	"category" : "Bloc-Diagram-Core-Base",
+	"category" : "Bloc-Diagram-Core-Components",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
