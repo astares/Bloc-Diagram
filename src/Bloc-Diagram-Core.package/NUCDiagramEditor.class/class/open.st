@@ -4,4 +4,5 @@ open
 	
 	(self basicNew)	 
 		initialize;
-		openWithSpec 
+		openWithSpec;
+		initializeEditorPane

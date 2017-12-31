@@ -6,7 +6,7 @@ initialDiagramMenu
 	builder
 		addItem: 'New'
 		icon: nil
-		action: [ self login ].
+		action: [ self newDiagram ].
 	builder
 		addItem: 'Close'
 		icon: nil

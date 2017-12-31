@@ -1,4 +1,4 @@
 accessing
 editorPane
 
-	^editorPane ifNil: [ editorPane := BorderedMorph new asSpecAdapter ]
+	^editorPane ifNil: [ editorPane := Morph new asSpecAdapter ]
