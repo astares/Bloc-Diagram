@@ -1,4 +1,0 @@
-defaults
-rulerClass
-
-	^BlRuler 

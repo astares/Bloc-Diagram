@@ -1,4 +1,0 @@
-defaults
-canvasClass
-
-	^BlDiagramCanvas  

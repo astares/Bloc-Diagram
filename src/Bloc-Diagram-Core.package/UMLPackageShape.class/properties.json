@@ -1,6 +1,6 @@
 {
 	"commentStamp" : "TorstenBergmann 12/28/2017 18:12",
-	"super" : "BlDiagramElement",
+	"super" : "NUCDiagramElement",
 	"category" : "Bloc-Diagram-Core-Shapes-UML",
 	"classinstvars" : [ ],
 	"pools" : [ ],
