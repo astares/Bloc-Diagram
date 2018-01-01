@@ -2,7 +2,7 @@ private - accessing
 initialEditorPane 
 
   	| morph |
-	morph := BorderedMorph new.
+	morph := NUCBlocEmbeddingMorph new.
   	morph color: UITheme current windowColor.
  	morph 
 		hResizing: #spaceFill;

@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "TorstenBergmann 1/1/2018 19:52",
+	"super" : "BorderedMorph",
+	"category" : "Bloc-Diagram-Core-Spec-Utilities",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"space"
+	],
+	"name" : "NUCBlocEmbeddingMorph",
+	"type" : "normal"
+}

@@ -7,4 +7,6 @@ postInitializeEditorPane
 	space := BlSpace new.
 	space host: host.
 	space root addChild: (NUCDiagramEditorPane new).
+	morph space: space.
+	space extent: morph extent.
 	space show

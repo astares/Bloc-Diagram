@@ -1,0 +1,1 @@
+A morph embedding a Bloc space.
