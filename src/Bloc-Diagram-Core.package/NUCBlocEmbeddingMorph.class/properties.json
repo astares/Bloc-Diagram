@@ -1,6 +1,6 @@
 {
 	"commentStamp" : "TorstenBergmann 1/1/2018 19:52",
-	"super" : "BorderedMorph",
+	"super" : "Morph",
 	"category" : "Bloc-Diagram-Core-Spec-Utilities",
 	"classinstvars" : [ ],
 	"pools" : [ ],
