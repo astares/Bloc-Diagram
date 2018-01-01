@@ -1,4 +1,4 @@
 accessing
 navigator
 
-	^navigator ifNil: [ navigator := ListModel new ]
+	^navigator ifNil: [ navigator := IconListModel new ]
