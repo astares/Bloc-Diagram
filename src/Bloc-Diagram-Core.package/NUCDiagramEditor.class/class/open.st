@@ -2,7 +2,8 @@ instance creation
 open
 	<script>
 	
-	(self basicNew)	 
+	^(self basicNew)	 
 		initialize;
 		openWithSpec;
-		initializeEditorPane
+	   postInitializeEditorPane; 
+		yourself

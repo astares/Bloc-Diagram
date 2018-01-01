@@ -1,4 +1,4 @@
 private - initialization
 initialExtent
 
-	^800@600
+	^1200@720

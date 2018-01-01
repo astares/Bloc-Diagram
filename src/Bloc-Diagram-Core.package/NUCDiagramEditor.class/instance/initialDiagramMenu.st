@@ -4,9 +4,9 @@ initialDiagramMenu
 	|builder|
 	builder := NUCMenuBuilder new.
 	builder
-		addItem: 'New'
+		addItem: 'Inspect'
 		icon: nil
-		action: [ self newDiagram ].
+		action: [ self inspect ].
 	builder
 		addItem: 'Close'
 		icon: nil
